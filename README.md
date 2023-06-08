@@ -1,2 +1,2 @@
-the file above is the obfuscated version of my roblox script "Clocker Revamped".
+obfuscated clocker revamped
 the script is made specifically for rb world 2 and rb world 3
